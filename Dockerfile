@@ -1,3 +1,3 @@
 FROM alpine:3.5
 
-VOLUME ["/aa","/bb","cc"]
+VOLUME ["/tmp/aa","/tmp/bb","/tmp/cc"]
