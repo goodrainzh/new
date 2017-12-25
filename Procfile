@@ -1,1 +1,1 @@
-web: java -jar ./webapp-runner.jar --port $PORT --session-store redis ./*.war
+web: java -jar ./webapp-runner.jar --port 5000 --session-store redis ./*.war
