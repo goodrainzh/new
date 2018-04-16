@@ -1,5 +1,5 @@
 {
-    "require": {"php": "7.1.16",
+    "require": {"php": "7.2.4",
                 "ext-bcmath": "*",
                 "ext-memcached": "*",
                 "ext-mongodb": "*",
