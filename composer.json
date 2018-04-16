@@ -1,8 +1,6 @@
 {
     "require": {"php": "7.2.4",
-                "ext-bcmath": "*",
-                "ext-memcached": "*",
-                "ext-mongodb": "*",
-                "ext-xsl": "*"
+                "ext-memcached-3.0.4": "*",
+                "ext-mongodb-1.4.2": "*"
        }
 }
